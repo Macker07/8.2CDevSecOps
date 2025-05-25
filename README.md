@@ -1,7 +1,5 @@
 # Goof - Snyk's vulnerable demo app
 # Updated for Jenkins polling test
-# Final test for Jenkins polling test
-# Final test-2 for Jenkins polling test
 
 
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
