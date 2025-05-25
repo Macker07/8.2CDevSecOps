@@ -1,5 +1,6 @@
 # Goof - Snyk's vulnerable demo app
-# final check for Jenkins pooling test
+# Updated for Jenkins polling test
+
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
